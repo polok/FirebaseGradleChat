@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 .gradle
 /local.properties
 /.idea/workspace.xml
 .DS_Store
+=======
+.idea
+out/
+gen/
+.project
+.settings/
+*.iml
+bin/
+local.properties
+>>>>>>> origin/master
