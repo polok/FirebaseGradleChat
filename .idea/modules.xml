@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirebaseAndroidDemo.iml" filepath="$PROJECT_DIR$/FirebaseAndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirebaseGradleSkeleton/FirebaseGradleSkeleton.iml" filepath="$PROJECT_DIR$/FirebaseGradleSkeleton/FirebaseGradleSkeleton.iml" />
+    </modules>
+  </component>
+</project>
+
